@@ -1,0 +1,46 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "46CCF9E3-3",
+    "build_number": 3,
+    "build_time": 1765731700011,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "features": {
+    "activityIntentTasks": false,
+    "nodejs": "auto"
+  },
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "AutoGLM-AJ版",
+  "optimization": {
+    "obfuscateComponents": false,
+    "removeAccessibilityService": false,
+    "removeOpenCv": true,
+    "unusedResources": false
+  },
+  "packageName": "com.llleeo.autoglm",
+  "permissionConfig": {
+    "manifestPermissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "requestListOnStartup": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ]
+  },
+  "scripts": {},
+  "useFeatures": [],
+  "versionCode": 0,
+  "versionName": "1.0.0"
+}
